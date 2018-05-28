@@ -48,4 +48,5 @@
 
 3. Inside the #mods chat Look for a push pin icon in the top right of the Discord app just to the left of the search bar   
 
+**Lots of mods are hosted through the discord**
 -----
