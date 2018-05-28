@@ -53,6 +53,8 @@
 
 # Mod Installation Instruction
 
+_____
+
 **The Godly Rancher Mod**
 1. Click this link -- https://github.com/GodlyJagex/TheGodlyRancher --
 
@@ -64,3 +66,5 @@
    4.1 Inside the Slime Rancher installation folder open the **SlimeRancher_Data** folder   
    4.2 Inside the **SlimeRancher_Data** folder open the **Managed** folder 
 5. Transfer the **Assembly-CSharp.dll** file from your downloads folder to the Managed folder and **replace** the old one
+
+_____
