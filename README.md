@@ -24,6 +24,7 @@
 **The Default installation directory of Slime Rancher through steam is "C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher"**  
 
 **This directory is very important for modding Slime Rancher take note of how to navigate to it or refer back to this set of instructions**
+
 -----
 # Finding Mods Through The Slime Rancher Wiki Discord
 0. Join the Discord server through the # Join The Discord instructions above
