@@ -63,4 +63,4 @@
 4. Navigate to your slime rancher installation folder **Instructions above**  
    4.1 Inside the Slime Rancher installation folder open the "SlimeRancher_Data" folder   
    4.2 Inside the SlimeRancher_Data folder open the "Managed" folder 
-5.Transfer the Assembly-CSharp.dll file from your downloads folder to the Managed folder and replace the old one
+5. Transfer the Assembly-CSharp.dll file from your downloads folder to the Managed folder and replace the old one
