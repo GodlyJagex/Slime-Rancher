@@ -4,6 +4,7 @@
 - Visit The Wiki
 - Slime Rancher Steam Installation
 - Finding Mods
+- Mod Installation Instructions
 
 -----
 # Join The Discord Server
@@ -48,5 +49,9 @@
 
 3. Inside the #mods chat Look for a push pin icon in the top right of the Discord app just to the left of the search bar   
 
-**Lots of mods are hosted through the discord**
 -----
+
+# Mod Installation Instruction
+
+**The Godly Rancher Mod**
+1. Click this link -- https://github.com/GodlyJagex/TheGodlyRancher --
