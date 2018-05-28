@@ -1,4 +1,6 @@
-# Slime-Rancher
+# Index
+- Join The Discord
+- Slime Rancher Steam Installation
 # Join The Discord
 1. Click this link -- https://discord.gg/vSPyE2p --
   - Login / Register if needed
