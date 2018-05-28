@@ -55,3 +55,11 @@
 
 **The Godly Rancher Mod**
 1. Click this link -- https://github.com/GodlyJagex/TheGodlyRancher --
+2. Click the "Assembly-CSharp.dll" file and click the download button
+   2.1 The readme file isnt needed, so there is no need to "Clone or Download"
+   2.2 If your web browser flags the file it is up to you to decide if the file is safe
+3. Navigate to your default download folder and locate the "Assembly-CSharp.dll" file
+4. Navigate to your slime rancher installation folder **Instructions above**
+   4.1 Inside the Slime Rancher installation folder open the "SlimeRancher_Data" folder
+   4.2 Inside the SlimeRancher_Data folder open the "Managed" folder
+5.Transfer the Assembly-CSharp.dll file from your downloads folder to the Managed folder and replace the old one
