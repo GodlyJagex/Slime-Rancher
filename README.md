@@ -57,7 +57,7 @@ _____
 
 **How to install an Assembly-CSharp.dll file**
 
-1. Navigate to the folder containing the **Assembly-CSharp.dll** file
+1. Navigate to the folder containing the **Assembly-CSharp.dll** file   
    1.1 If the file is stored as a .zip/.rar or any other compressed format extract it
 
 2. Navigate to your slime rancher installation folder **Instructions above**  
