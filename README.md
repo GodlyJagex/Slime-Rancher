@@ -25,6 +25,8 @@
 **This directory is very important for modding Slime Rancher take note of how to navigate to it or refer back to this set of instructions**
 
 # Finding Mods Through The Slime Rancher Wiki Discord
-0. Join The Discord through the # Join The Discord instructions above
-1. Navigate Your Discord servers on the left side of the discord app and click the Slime Rancher Wiki discord server
-2. In the Slime Rancher Wiki discord
+0. Join the Discord server through the # Join The Discord instructions above
+1. Navigate your Discord servers on the left side of the discord app and click the Slime Rancher Wiki Discord server
+2. In the Slime Rancher Wiki Discord navigate the server chat rooms and find #mods
+3. Inside #mods navigate to the pins
+   3.1. Look for a push pin icon in the top right of the Discord app just to the left of the search bar
