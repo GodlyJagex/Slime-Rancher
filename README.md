@@ -46,7 +46,6 @@
 
 2. In the Slime Rancher Wiki Discord navigate the server chat rooms and find #mods  
 
-3. Inside #mods navigate to the pins   
-   3.1. Look for a push pin icon in the top right of the Discord app just to the left of the search bar  
-   
+3. Inside the #mods chat Look for a push pin icon in the top right of the Discord app just to the left of the search bar   
+
 -----
