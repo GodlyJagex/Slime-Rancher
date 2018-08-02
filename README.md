@@ -41,13 +41,13 @@
 -----
 # Finding Mods Through The Slime Rancher Wiki Discord
 
-0. Join the Discord server through the **# Join The Discord Server** instructions above  
+0. Join the Discord server through the **# Join The Discord Server** instructions above
 
-1. Navigate your Discord servers on the left side of the discord app and click the Slime Rancher Wiki Discord server 
+1. Navigate your Discord servers on the left side of the discord app and click the Slime Rancher Wiki Discord server
 
-2. In the Slime Rancher Wiki Discord navigate the server chat rooms and find #mods  
+2. In the Slime Rancher Wiki Discord navigate the server chat rooms and find #mods
 
-3. Inside the #mods chat Look for a push pin icon in the top right of the Discord app just to the left of the search bar   
+3. Inside the #mods chat Look for a push pin icon in the top right of the Discord app just to the left of the search bar
 
 -----
 
@@ -57,28 +57,28 @@ _____
 
 **How to install an Assembly-CSharp.dll file**
 
-1. Navigate to the folder containing the **Assembly-CSharp.dll** file   
-   1.1 If the file is stored as a .zip/.rar or any other compressed format extract it
+1. Navigate to the folder containing the **Assembly-CSharp.dll** file
+  1.1. If the file is stored as a .zip/.rar or any other compressed format extract it
 
 2. Navigate to your slime rancher installation folder **Instructions above**  
-   2.1 Inside the Slime Rancher installation folder open the **SlimeRancher_Data** folder   
-   2.2 Inside the **SlimeRancher_Data** folder open the **Managed** folder 
+  2.1. Inside the Slime Rancher installation folder open the **SlimeRancher_Data** folder
+  2.2. Inside the **SlimeRancher_Data** folder open the **Managed** folder
    
 3. Transfer the **Assembly-CSharp.dll** file from your downloads folder to the Managed folder and **replace** the old one
 
 **How to install EmeraldPlay's Pure Saber Slime Mod**
 
-1. Navigate to [Pure Saber Slime Mod](https://www.moddb.com/mods/pure-saber-slime-mod/) and download the mod.  
-   1.1. Once downloaded navigate to where you downloaded the file and extract it by right clicking on it and clicked extract.
+1. Navigate to [Pure Saber Slime Mod](https://www.moddb.com/mods/pure-saber-slime-mod/) and download the mod
+  1.1. Once downloaded navigate to where you downloaded the file and extract it by right clicking on it and clicked extract
    
-2. Once extracted open the "/PureSaberSlimeMod130b/" folder and run the PureSaberSlimeMod130b.exe file to start the installation.
+2. Once extracted open the "/PureSaberSlimeMod130b/" folder and run the PureSaberSlimeMod130b.exe file to start the installation
 
-3. When the installer opens click next until the installer asks where you want to install the mod.
+3. When the installer opens click next until the installer asks where you want to install the mod
 
-4. Click select and navitegate to "C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher\SlimeRancher_Data" or simply paste that in the path.
+4. Click select and navitegate to "C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher\SlimeRancher_Data" or simply paste that in the path
 
-5. Click next and wait for the installation to complete. 
-   5.1 if any errors occur go back over rules 1-4  incase of error or try running the installer as an administrator.
+5. Click next and wait for the installation to complete
+  5.1. if any errors occur go back over rules 1-4  incase of error or try running the installer as an administrator
    
-6. Once the installation completes click next and close.
+6. Once the installation completes click next and close
 _____
