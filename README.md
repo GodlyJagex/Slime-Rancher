@@ -65,4 +65,7 @@ _____
    2.2 Inside the **SlimeRancher_Data** folder open the **Managed** folder 
 3. Transfer the **Assembly-CSharp.dll** file from your downloads folder to the Managed folder and **replace** the old one
 
+**How to install EmeraldPlay's Pure Saber Slime Mod**
+
+1. Navigate to [Pure Saber Slime Mod](https://www.moddb.com/mods/pure-saber-slime-mod/)
 _____
