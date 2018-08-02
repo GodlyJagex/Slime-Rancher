@@ -67,5 +67,12 @@ _____
 
 **How to install EmeraldPlay's Pure Saber Slime Mod**
 
-1. Navigate to [Pure Saber Slime Mod](https://www.moddb.com/mods/pure-saber-slime-mod/)
+1. Navigate to [Pure Saber Slime Mod](https://www.moddb.com/mods/pure-saber-slime-mod/) and download the mod.
+   1.1. Once downloaded navigate to where you downloaded the file and extract it by right clicking on it and clicked extract.
+2. Once extracted open the "/PureSaberSlimeMod130b/" folder and run the PureSaberSlimeMod130b.exe file to start the installation.
+3. When the installer opens click next until the installer asks where you want to install the mod
+4. Click select and navitegate to "C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher\SlimeRancher_Data" or simply paste that in the path.
+5. Click next and wait for the installation to complete
+   5.1 if any errors occur go back over rules 1-4  incase of error or try running the installer as an administrator.
+6. Once the installation completes click next and close
 _____
