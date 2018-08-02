@@ -9,8 +9,8 @@
 -----
 # Join The Discord Server
 
-1. Click this link -- https://discord.gg/vSPyE2p --
-   1.1. Login / Register if needed
+1. Click this link -- https://discord.gg/vSPyE2p --   
+1.1. Login / Register if needed
    
 2. Click Accept Invite
 
@@ -57,19 +57,19 @@ _____
 
 **How to install an Assembly-CSharp.dll file**
 
-1. Navigate to the folder containing the **Assembly-CSharp.dll** file
-  1.1. If the file is stored as a .zip/.rar or any other compressed format extract it
+1. Navigate to the folder containing the **Assembly-CSharp.dll** file   
+1.1. If the file is stored as a .zip/.rar or any other compressed format extract it
 
 2. Navigate to your slime rancher installation folder **Instructions above**  
-  2.1. Inside the Slime Rancher installation folder open the **SlimeRancher_Data** folder
-  2.2. Inside the **SlimeRancher_Data** folder open the **Managed** folder
+2.1. Inside the Slime Rancher installation folder open the **SlimeRancher_Data** folder   
+2.2. Inside the **SlimeRancher_Data** folder open the **Managed** folder
    
 3. Transfer the **Assembly-CSharp.dll** file from your downloads folder to the Managed folder and **replace** the old one
 
 **How to install EmeraldPlay's Pure Saber Slime Mod**
 
-1. Navigate to [Pure Saber Slime Mod](https://www.moddb.com/mods/pure-saber-slime-mod/) and download the mod
-  1.1. Once downloaded navigate to where you downloaded the file and extract it by right clicking on it and clicked extract
+1. Navigate to [Pure Saber Slime Mod](https://www.moddb.com/mods/pure-saber-slime-mod/) and download the mod   
+1.1. Once downloaded navigate to where you downloaded the file and extract it by right clicking on it and clicked extract
    
 2. Once extracted open the "/PureSaberSlimeMod130b/" folder and run the PureSaberSlimeMod130b.exe file to start the installation
 
@@ -78,7 +78,7 @@ _____
 4. Click select and navitegate to "C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher\SlimeRancher_Data" or simply paste that in the path
 
 5. Click next and wait for the installation to complete  
-  5.1. if any errors occur go back over rules 1-4  incase of error or try running the installer as an administrator
+5.1. if any errors occur go back over rules 1-4  incase of error or try running the installer as an administrator
    
 6. Once the installation completes click next and close
 _____
