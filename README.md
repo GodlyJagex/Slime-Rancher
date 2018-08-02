@@ -71,7 +71,7 @@ _____
 1. Navigate to [Pure Saber Slime Mod](https://www.moddb.com/mods/pure-saber-slime-mod/) and download the mod   
 1.1. Once downloaded navigate to where you downloaded the file and extract it by right clicking on it and clicked extract
    
-2. Once extracted open the "/PureSaberSlimeMod130b/" folder and run the PureSaberSlimeMod130b.exe file to start the installation
+2. Once extracted open the "/PureSaberSlimeMod130b/" folder and run the "PureSaberSlimeMod130b.exe" file to start the installation
 
 3. When the installer opens click next until the installer asks where you want to install the mod
 
