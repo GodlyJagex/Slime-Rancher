@@ -9,7 +9,7 @@
 -----
 # Join The Discord Server
 
-1. Click this link -- https://discord.gg/vSPyE2p --   
+1. Click this link -- https://discord.gg/vSPyE2p --
    1.1. Login / Register if needed
    
 2. Click Accept Invite
@@ -77,7 +77,7 @@ _____
 
 4. Click select and navitegate to "C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher\SlimeRancher_Data" or simply paste that in the path
 
-5. Click next and wait for the installation to complete
+5. Click next and wait for the installation to complete  
   5.1. if any errors occur go back over rules 1-4  incase of error or try running the installer as an administrator
    
 6. Once the installation completes click next and close
