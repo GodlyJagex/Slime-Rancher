@@ -9,7 +9,7 @@
 -----
 # Join The Discord Server
 
-1. Click this link -- https://discord.gg/vSPyE2p --   
+1. [Slime Rancher Wiki Discord](https://discord.gg/vSPyE2p)
 1.1. Login / Register if needed
    
 2. Click Accept Invite
@@ -17,7 +17,7 @@
 -----
 # Visit The Wiki
 
-1. Click this link -- http://slimerancher.wikia.com/wiki/Slime_Rancher_Wiki --
+1. [Slime Rancher Wiki](http://slimerancher.wikia.com/wiki/Slime_Rancher_Wiki)
 
 -----
 # How to locate your Slime Rancher installation folder through steam
