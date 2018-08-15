@@ -9,7 +9,7 @@
 -----
 # Join The Discord Server
 
-1. [Slime Rancher Wiki Discord](https://discord.gg/vSPyE2p)
+1. [Slime Rancher Wiki Discord](https://discord.gg/vSPyE2p)  
 1.1. Login / Register if needed
    
 2. Click Accept Invite
