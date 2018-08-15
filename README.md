@@ -41,7 +41,7 @@
 -----
 # Finding Mods Through The Slime Rancher Wiki Discord
 
-0. Join the Discord server through the **# Join The Discord Server** instructions above
+0. Join the Discord server through the **Join The Discord Server** instructions above
 
 1. Navigate your Discord servers on the left side of the discord app and click the Slime Rancher Wiki Discord server
 
