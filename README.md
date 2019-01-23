@@ -85,8 +85,8 @@ _____
 # uModFramework
 
 ## Links:
-  * [Slime Rancher Multi Mod]:https://steamcommunity.com/app/433340/discussions/0/1519260397784552484/
-   * [Direct Download]: https://umodframework.com/mods/SRMultiMod_v1.60.umfmod
-  * [Slime Rancher Cheat Menu Mod]:https://steamcommunity.com/app/433340/discussions/0/3397295779079958505/
-  * [Slime Rancher Slime Recolor mod]: https://steamcommunity.com/app/433340/discussions/0/1741103267288120737/
-  * [uMod Framework Download]:https://umodframework.com/download.html
+  * [Slime Rancher Multi Mod](https://steamcommunity.com/app/433340/discussions/0/1519260397784552484/)
+   * [Multi Mod Direct Download](https://umodframework.com/mods/SRMultiMod_v1.60.umfmod)
+  * [Slime Rancher Cheat Menu Mod](https://steamcommunity.com/app/433340/discussions/0/3397295779079958505/)
+  * [Slime Rancher Slime Recolor mod](https://steamcommunity.com/app/433340/discussions/0/1741103267288120737/)
+  * [uMod Framework Download](https://umodframework.com/download.html)
