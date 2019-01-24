@@ -29,3 +29,8 @@ Step 2: Installation process
   - next open that folder and run the uModFramework.setup.exe
   -when that runs it will open a command prompt, after the command prompt loads press 1 then enter and uModFramework will install
   ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umfcmd.jpg "umf cmd")
+  
+## How to install mods
+Step 1:open the uModFramework folder you installed
+Step 2: inside that folder drag your mod into the mod folder
+![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umfcmd.jpg "umf cmd")
