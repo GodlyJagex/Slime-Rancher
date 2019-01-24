@@ -6,6 +6,6 @@ Step 1: Navigate to [uModFramework download](https://umodframework.com/download.
     1. "I have read and agree to the License Agreement."
     2. "I understand that this is an early release that may be buggy."
     3. "I'm not a robot"
-  - next click the "Download the latest verion" button to start the download
-  [Logo]: https://github.com/GodlyJagex/Slime-Rancher/blob/master/umfdownload.jpg
+  - next click the "Download the latest verion" button to start the download  
+  ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umfdownload.jpg "umf download page")
   
