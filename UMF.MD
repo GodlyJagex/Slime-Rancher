@@ -25,13 +25,13 @@ Step 2: Installation process
   - First right click the umf file and click extract all
   ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/extract%20all.jpg "extract all")
   - next open the uModFramework folder that was extracted
-  - next inside that folder you will find another folder named uModFramework,drag that folder into the installation folder of your game
+  - next inside that folder you will find another folder named uModFramework, drag that folder into the installation folder of your game
   - next open that folder and run the uModFramework.setup.exe
   -when that runs it will open a command prompt, after the command prompt loads press 1 then enter and uModFramework will install
   ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umfcmd.jpg "umf cmd")
   
 ## How to install mods
-Step 1:open the uModFramework folder you installed to your game  
+Step 1:open the uModFramework folder you installed in your game  
 Step 2: inside that folder there is a Mods folder, put your mod files there  
 ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umodfolder.jpg "mods folder")
 
