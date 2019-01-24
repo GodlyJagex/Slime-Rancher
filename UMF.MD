@@ -22,11 +22,11 @@ This is what a fresh installation of slime rancher looks like, the contents of y
     ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/slime%20rancher.png "Slime Rancher Installation folder")
 
 Step 2: Installation process
-  1. First right click the umf file and click extract all
+  - First right click the umf file and click extract all
   ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/extract%20all.jpg "extract all")
-  2.  Second open the uModFramework folder that was extracted
-  3. Third inside that folder you will find another folder named uModFramework,drag that folder into the installation folder of your game
-  4. fourth
+  - next open the uModFramework folder that was extracted
+  - next inside that folder you will find another folder named uModFramework,drag that folder into the installation folder of your game
+  - next open that folder and run the uModFramework.setup.exe
   
   
    
