@@ -7,5 +7,7 @@ Step 1: Navigate to [uModFramework download](https://umodframework.com/download.
     2. "I understand that this is an early release that may be buggy."
     3. "I'm not a robot"
   - next click the "Download the latest verion" button to start the download  
+  
   ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umfdownload.jpg "umf download page")
+  -----
   
