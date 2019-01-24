@@ -27,6 +27,8 @@ Step 2: Installation process
   - next open the uModFramework folder that was extracted
   - next inside that folder you will find another folder named uModFramework,drag that folder into the installation folder of your game
   - next open that folder and run the uModFramework.setup.exe
+  -when that runs it will open a command prompt, after the command prompt loads press 1 then enter and uModFramework will install
+  
   
   
    
