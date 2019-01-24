@@ -32,5 +32,5 @@ Step 2: Installation process
   
 ## How to install mods
 Step 1:open the uModFramework folder you installed to your game  
-Step 2: inside that folder there is a mod folder, put your mod files there  
+Step 2: inside that folder there is a Mods folder, put your mod files there  
 ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umodfolder.jpg "mods folder")
