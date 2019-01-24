@@ -34,3 +34,8 @@ Step 2: Installation process
 Step 1:open the uModFramework folder you installed to your game  
 Step 2: inside that folder there is a Mods folder, put your mod files there  
 ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umodfolder.jpg "mods folder")
+
+## uMod Framework mods:
+  * [Slime Rancher Multi Menu](https://steamcommunity.com/app/433340/discussions/0/1519260397784552484/)
+  * [Slime Rancher Cheat Menu](https://steamcommunity.com/app/433340/discussions/0/3397295779079958505/)
+  * [Slime Rancher Slime Recolor](https://steamcommunity.com/app/433340/discussions/0/1741103267288120737/)
