@@ -6,16 +6,15 @@ Step 1: Navigate to [uModFramework download](https://umodframework.com/download.
     1. "I have read and agree to the License Agreement."
     2. "I understand that this is an early release that may be buggy."
     3. "I'm not a robot"
-  - next click the "Download the latest verion" button to start the download  
+  - second click the "Download the latest verion" button to start the download  
   
   ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/umfdownload.jpg "umf download page")
   -----
   ## How to install uModFramework
   Step 1: Finding your files  
-    - Navigate to the location your file downloaded  
+    - First navigate to the location your file downloaded  
       1. the windows default download location is "C:\Users\%UserName%\Downloads"  
-        - <a href="file:C:\Users\%UserName%\Downloads">Downloads</a>  
-  Step 2: in a different window navigate to the installation folder of the game you want to mod    
-    - for this example i will be using slime rancher the default install location for slime rancher through steam is    
-    "C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher"    
-  
+    - second in a different window navigat to the installation folder of the game you want to mod
+    
+I will be modding slime rancher in this example, and will be using the steam version. The default installation for slime rancher through steam is "C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher"
+
