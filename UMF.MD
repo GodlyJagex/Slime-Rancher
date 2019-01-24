@@ -17,5 +17,6 @@ Step 1: Finding your files
   - second in a different window navigate to the installation folder of the game you want to mod
     
     I will be modding slime rancher in this example, and will be using the steam version. The default installation for slime rancher through steam is ``` C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher ```
+This is what a fresh installation of slime rancher looks like, the contents of your fodler should look similair.
     ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/slime%20rancher.png "Slime Rancher Installation folder")
 
