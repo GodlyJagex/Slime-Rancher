@@ -24,4 +24,5 @@ This is what a fresh installation of slime rancher looks like, the contents of y
 Step 2: Installation process
   - First move the downloaded umf file into the games installation folder.
   - Second right click the umf file and click extract all
+  ![alt text](https://github.com/GodlyJagex/Slime-Rancher/blob/master/extract%20all.jpg "Extract all")
 
